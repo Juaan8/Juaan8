@@ -1,6 +1,6 @@
 Hola soy Juan Gomez.
 
-Soy programador web de Zacatecas, México.
+Soy programador web 
 
 Actualmente sigo estudiando para poder obtener mas conocimientos para solucionar cualquier problema que se presente en algun proyecto de desarrollo. 🌎
 
